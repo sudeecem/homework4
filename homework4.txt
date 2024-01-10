@@ -1,4 +1,1 @@
-STEP a:
-user.name=Sude Ecem Çakırbey
-user.email=sudecakirbey02@hotmail.com
-favorite.editor=Aylin Baki
+
